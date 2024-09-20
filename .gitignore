@@ -1,0 +1,14 @@
+# Docker
+docker-compose.yml
+.env
+
+# Node
+node_modules
+npm-debug.log
+
+# Build
+build/
+dist/
+
+# Misc
+.DS_Store
